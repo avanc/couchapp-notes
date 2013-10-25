@@ -1,0 +1,10 @@
+{
+    "env" : {
+        "default" : {
+            "db" : "https://couch/db/"
+        },
+        "prod" : {
+            "db" : "https://acouch/db/"
+        }
+    }
+}
